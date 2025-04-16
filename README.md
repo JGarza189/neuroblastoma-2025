@@ -19,7 +19,7 @@ This project explored the role of immunotherapy and chemotherapy in suppressing 
 
 - **Objective 1**: Develop a system of ordinary differential equations to model interactions among natural killer (NK) cells, cytotoxic T lymphocytes (CTLs), and tumor cells.
 
-- **Objective 2**: Evaluate the effects of immunotherapy and chemotherapy by simulating how therapeutic agents (e.g., IL-2 and Cyclophosphamide) modulate tumor growth and immune activation.
+- **Objective 2**: Evaluate the effects of immunotherapy and chemotherapy by simulating how therapeutic agents (IL-2 and Cyclophosphamide) modulate tumor growth and immune activation.
 
 $$
 \begin{aligned}
