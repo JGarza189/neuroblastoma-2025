@@ -31,17 +31,3 @@ The low-risk population is characterized by a relatively low tumor cell count an
 ### Parameter Selection
 
 In this section, we outline the key parameters that need to be defined based on existing literature to accurately model the immune-cellular dynamics of neuroblastoma progression. These parameters are crucial for setting up the system of ordinary differential equations and understanding the interactions between tumor cells, natural killer cells (NK), cytotoxic T lymphocytes (CTLs), and the impact of therapeutic agents such as IL-2 and Cyclophosphamide.
-
-$$
-\begin{aligned}
-\begin{cases}
-N'(t) = a_1 N(t)(1 - bN(t)) - a_2 N(t) - \alpha_1 N(t) T(t) + k_i I(t), \\
-L'(t) = r_1 N(t) T(t) - \mu L(t) - \beta_1 L(t) T(t), \\
-T'(t) = c T(t)(1 - d T(t)) - \alpha_2 N(t) T(t) - \beta_2 L(t) T(t) - k_c C(t), \\
-I'(t) = -\frac{\log(2)}{h_i} 2^{-\frac{t}{h_i}} I(0), \\
-C'(t) = -\frac{\log(2)}{h_c} 2^{-\frac{t}{h_c}} C(0).
-\end{cases}
-\end{aligned}
-$$
-
-..
