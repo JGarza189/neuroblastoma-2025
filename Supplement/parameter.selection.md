@@ -19,11 +19,12 @@ To establish the initial conditions for our mathematical model, we utilized thre
 
 ### Initial Conditions for Various Patient Populations
 
-| **Parameter** | **Unit** | **Low Risk** | **Intermediate Risk** | **High Risk** | **Description**                          |
-|---------------|----------|--------------|------------------------|---------------|-------------------------------------------|
-| **N₀**        | cells    |     —        |          —             |      —        | Initial amount of NK cells                |
-| **L₀**        | cells    |     —        |          —             |      —        | Initial amount of CTL cells               |
-| **T₀**        | cells    |     —        |          —             |      —        | Initial amount of tumor cells             |
+| **Parameter** | **Description**                       | **Unit** | **Low Risk** | **Intermediate Risk** | **High Risk** |
+|---------------|----------------------------------------|----------|--------------|------------------------|---------------|
+| **N₀**        | Initial amount of NK cells             | cells    |      -       |          -             |      -        |
+| **L₀**        | Initial amount of CTL cells            | cells    |      -       |          -             |      -        |
+| **T₀**        | Initial amount of tumor cells          | cells    |      -       |          -             |      -        |
+
 
 The low-risk population is characterized by a relatively low tumor cell count and a robust immune response. Natural killer (NK) cells, part of the innate immune system, provide immediate defense, while cytotoxic T lymphocytes (CTLs) of the adaptive immune system offer targeted, long-term protection—though in lower abundance than NK cells. In intermediate-risk patients, a higher tumor burden prompts a more prominent role for CTLs. While NK cells remain the frontline defense, the growing tumor population necessitates a more coordinated immune response. In high-risk individuals, tumor cell counts are further elevated, posing greater challenges to immune control. CTLs become essential for sustained tumor suppression due to their antigen-specific targeting, while NK cells continue to provide rapid, nonspecific immune activity.
 
