@@ -1,6 +1,6 @@
 ## Tumor Progression and Pharmacological Intervention: Modeling Immunotherapeutic and Chemotherapy Strategies in Neuroblastoma
 
-#### Project Contributors:  
+### Project Contributors:  
 Kate Brockman², Brian Colburn¹, Joseph Garza³, Tony Liao¹, BV Shankara Narayana Rao¹
 
 #### Affiliations:
@@ -33,4 +33,4 @@ C'(t) = -\frac{\log(2)}{h_c} 2^{-\frac{t}{h_c}} C(0).
 \end{aligned}
 $$
 
-This study integrates immunological and pharmacokinetic components to simulate tumor progression under varying treatment scenarios. The model aims to provide insight into how combination therapies can be optimized to improve clinical outcomes in neuroblastoma.
+This study integrated immunological and pharmacokinetic components to simulate tumor progression under varying treatment scenarios. The model aimed to provide insights into how combination therapies can be optimized to improve clinical outcomes in neuroblastoma.
