@@ -38,19 +38,21 @@ git clone https://github.com/JGarza189/neuroblastoma-25.git
 
 ### 2. Download Dependencies
 
-Brian’s instructions for downloading files needed to run script. 
+Brian’s instructions for downloading dependencies.
 
 ### 3. Library and Module Installation
 
-### Using `conda`
+Brian’s instructions for library and module installation.
+
+#### Using `conda`
 
 ```
 
-## Running Simulations
+## Running Simulations ##
 
 Open Jupyter Notebook and call the scripts as follows:
 
-1. Launch Jupyter Notebook from the terminal:
+1. Launch Jupyter Notebook:
 
    ```
    ```
@@ -59,4 +61,4 @@ Open Jupyter Notebook and call the scripts as follows:
 
 3. ..
 
-4. Save outputs manually to the `Desired/` directory.
+4. Save outputs manually to a `Desired/` directory.
