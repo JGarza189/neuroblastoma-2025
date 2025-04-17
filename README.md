@@ -13,21 +13,8 @@ Kate Brockman², Brian Colburn¹, Joseph Garza³, Tony Liao¹, BV Shankara Naray
 ## Abstract
 Neuroblastoma, the most common solid tumor causing cancer in infants, remains a leading cause of childhood cancer-related mortality. Despite advances in treatment, there is an ongoing need for more effective mathematical models and therapies to improve outcomes across neuroblastoma-specific patient populations. Immunotherapy and chemotherapy, particularly the use of Interleukin-2 (IL-2) and Cyclophosphamide, have shown promising therapeutic effects by enhancing immune responses and targeting cancer cells. Therefore, this study developed a coupled, nonlinear system of first-order differential equations to model the immune-cellular dynamics of neuroblastoma progression. The mathematical model captured the interactions between tumor cells, natural killer cells (NK), and cytotoxic T lymphocytes (CTLs), while exploring how IL-2 and Cyclophosphamide influenced these cell populations. The model investigated tumor population dynamics across various patient profiles, assessing the therapeutic impact of IL-2 and Cyclophosphamide. This studies approach supports the optimization of immunotherapy and chemotherapy strategies, providing actionable insights on how to improve clinical outcomes in neuroblastoma treatment.
 
-
 ## Repository Overview
 This repository contains scripts, data, and supplementary materials for an applied modeling study. The project focused on developing a system of coupled first-order ordinary differential equations to model tumor-immune dynamics and assess the effects of immunotherapy and chemotherapy. Specifically, the model captured interactions between tumor cells, natural killer (NK) cells, cytotoxic T lymphocytes (CTLs), and therapeutic agents.
-
-$$
-\begin{aligned}
-\begin{cases}
-N'(t) = a_1 N(t)(1 - bN(t)) - a_2 N(t) - \alpha_1 N(t) T(t) + k_i I(t), \\
-L'(t) = r_1 N(t) T(t) - \mu L(t) - \beta_1 L(t) T(t), \\
-T'(t) = c T(t)(1 - d T(t)) - \alpha_2 N(t) T(t) - \beta_2 L(t) T(t) - k_c C(t), \\
-I'(t) = -\frac{\log(2)}{h_i} 2^{-\frac{t}{h_i}} I(0), \\
-C'(t) = -\frac{\log(2)}{h_c} 2^{-\frac{t}{h_c}} C(0).
-\end{cases}
-\end{aligned}
-$$
 
 ## Study Objectives
 
@@ -38,3 +25,25 @@ This project explored the role of immunotherapy and chemotherapy in suppressing 
 - **Objective 2**: Evaluate the effects of immunotherapy and chemotherapy on distinct patient populations by simulating how therapeutic agents (IL-2 and Cyclophosphamide) modulate tumor growth and immune activation.
 
 This study integrated immunological and pharmacokinetic components to simulate tumor progression under varying treatment scenarios. The model aimed to provide insights into how combination therapies can be optimized to improve clinical outcomes in neuroblastoma.
+
+## Computer Set-up
+
+### 1. Clone the Repository
+
+Clone this repository into your directory of choice using the following command:
+
+```bash
+git clone https://github.com/JGarza189/neuroblastoma-25.git
+```
+
+### 2. Download Dependencies
+
+Brian’s instructions for downloading files needed to run script. 
+
+---
+
+## Library and Module Installation
+
+### Using `conda`
+
+```
