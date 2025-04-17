@@ -15,7 +15,7 @@ Neuroblastoma, the most common solid tumor causing cancer in infants, remains a 
 
 
 ## Repository Overview
-This repository contains scripts, data, and supplementary materials for an applied mathematical modeling project. The project focuses on developing a system of coupled first-order ordinary differential equations to model tumor-immune dynamics and assess the effects of immunotherapy and chemotherapy. Specifically, the model captures interactions between tumor cells, natural killer (NK) cells, cytotoxic T lymphocytes (CTLs), and therapeutic agents.
+This repository contains scripts, data, and supplementary materials for an applied modeling study. The project focused on developing a system of coupled first-order ordinary differential equations to model tumor-immune dynamics and assess the effects of immunotherapy and chemotherapy. Specifically, the model captured interactions between tumor cells, natural killer (NK) cells, cytotoxic T lymphocytes (CTLs), and therapeutic agents.
 
 $$
 \begin{aligned}
