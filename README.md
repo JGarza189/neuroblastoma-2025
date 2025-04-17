@@ -30,7 +30,7 @@ This study integrated immunological and pharmacokinetic components to simulate t
 
 ### 1. Clone the Repository
 
-Clone this repository into your directory of choice using the following command:
+Clone this repository into your directory of choice using the following shell command:
 
 ```bash
 git clone https://github.com/JGarza189/neuroblastoma-25.git
