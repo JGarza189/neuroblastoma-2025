@@ -1,6 +1,6 @@
 ## Manuscript
 
-### tumor-progression-pharmacological-intervention-neuroblastoma-25.pdf
+### Tumor Progression and Pharmacological Intervention: Modeling Immunotherapeutic and Chemotherapy Strategies in Neuroblastoma
 
 Published version of the manuscript associated with this repository. The paper presents a mathematical model describing tumor progression and pharmacological intervention in neuroblastoma.
 
