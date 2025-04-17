@@ -40,8 +40,6 @@ git clone https://github.com/JGarza189/neuroblastoma-25.git
 
 Brian’s instructions for downloading files needed to run script. 
 
----
-
 ## Library and Module Installation
 
 ### Using `conda`
