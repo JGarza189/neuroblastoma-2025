@@ -10,7 +10,7 @@ Kate Brockman², Brian Colburn¹, Joseph Garza³, Tony Liao¹, BV Shankara Naray
 3. Department of Engineering, Texas A&M University - Corpus Christi
 2. Department of Life Sciences, Texas A&M University - Corpus Christi
 
-Published version of the manuscript associated with this repository. The paper presents a mathematical model describing tumor progression and pharmacological intervention in neuroblastoma.
+Published version of the manuscript associated with this repository. The paper presents a mathematical framework modeling tumor progression and pharmacological intervention in neuroblastoma.
 
 **File:**  
 `tumor-progression-pharmacological-intervention-neuroblastoma-25.pdf`
