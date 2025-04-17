@@ -46,7 +46,7 @@ Brian’s instructions for downloading files needed to run script.
 
 ```
 
-### 3. Running the Simulations
+## 3. Running Simulations
 
 Open Jupyter Notebook and call the scripts as follows:
 
