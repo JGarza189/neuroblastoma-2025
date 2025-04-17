@@ -1,7 +1,8 @@
 ## Output
 
-This directory contains simulation results generated from the developed mathematical model.
+This directory contains simulation results generated from the developed pharmacology model.
 
-### `simulation.graphs-RAW.pdf`
+**File:**  
+`simulation.graphs-RAW.pdf`
 
-This file includes raw output plots from the numerical simulations discussed in the manuscript.
+This file includes raw output plots from the numerical simulations discussed in the manuscript. Each figure corresponds to different parameter sets or treatment scenarios explored in the study.
