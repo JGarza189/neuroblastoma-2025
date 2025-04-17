@@ -49,16 +49,12 @@ Brian’s instructions for library and module installation.
 Using `conda`, open Jupyter Notebook and call the scripts as follows:
 
 ```
+1. Step Goobly glob ..
 
-1. Step Goobly glob ..:
+2. Step boolly bob ..
 
-2. Step boolly bob ..:
+3. Navigate to the desired directory in the Jupyter interface.
 
-   ```
-   ```
+4. ..
 
-2. Navigate to the desired directory in the Jupyter interface.
-
-3. ..
-
-4. Save outputs manually to a `Desired/` directory.
+5. Save outputs manually to a `Desired/` directory.
