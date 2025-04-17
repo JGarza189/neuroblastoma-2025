@@ -45,3 +45,18 @@ Brian’s instructions for downloading files needed to run script.
 ### Using `conda`
 
 ```
+
+### 3. Running the Simulations
+
+Open Jupyter Notebook and call the scripts as follows:
+
+1. Launch Jupyter Notebook from the terminal:
+
+   ```
+   ```
+
+2. Navigate to the desired directory in the Jupyter interface.
+
+3. ..
+
+4. Save outputs manually to the `Desired/` directory.
