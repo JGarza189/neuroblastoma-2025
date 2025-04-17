@@ -46,12 +46,13 @@ Brian’s instructions for library and module installation.
 
 ### 4. Running Simulations
 
-Using `conda`:
+Using `conda`, open Jupyter Notebook and call the scripts as follows:
 
 ```
-Open Jupyter Notebook and call the scripts as follows:
 
-1. Step ..:
+1. Step Goobly glob ..:
+
+2. Step boolly bob ..:
 
    ```
    ```
