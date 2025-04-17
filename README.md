@@ -55,6 +55,10 @@ Using `conda`, open Jupyter Notebook and call the scripts as follows:
 
 3. Navigate to the desired directory in the Jupyter interface.
 
-4. ..
+4. Step ooobly blob ..
 
 5. Save outputs manually to a `Desired/` directory.
+```
+
+Simulations generated ..
+
