@@ -2,7 +2,7 @@
 
 This directory contains the final published version of the manuscript:
 
-**Tumor Progression and Pharmacological Intervention: Modeling Immunotherapeutic and Chemotherapy Strategies in Neuroblastoma**
+####Tumor Progression and Pharmacological Intervention: Modeling Immunotherapeutic and Chemotherapy Strategies in Neuroblastoma
 
 **Authors:** Kate Brockman², Brian Colburn¹, Joseph Garza³, Yidong Liao¹, and B.V. Shankara Narayana Rao¹ 
 
