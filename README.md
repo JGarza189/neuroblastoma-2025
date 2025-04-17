@@ -46,12 +46,12 @@ Brian’s instructions for library and module installation.
 
 ### 4. Running Simulations
 
-#### Using `conda`
+Using `conda`:
 
 ```
 Open Jupyter Notebook and call the scripts as follows:
 
-1. Launch Jupyter Notebook:
+1. Step ..:
 
    ```
    ```
