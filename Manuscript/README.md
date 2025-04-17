@@ -2,9 +2,15 @@
 
 ### Tumor Progression and Pharmacological Intervention: Modeling Immunotherapeutic and Chemotherapy Strategies in Neuroblastoma
 
-Published version of the manuscript associated with this repository. The paper presents a mathematical model describing tumor progression and pharmacological intervention in neuroblastoma.
+#### Project Contributors:  
+Kate Brockman², Brian Colburn¹, Joseph Garza³, Tony Liao¹, BV Shankara Narayana Rao¹
 
-**Authors:** Kate Brockman², Brian Colburn¹, Joseph Garza³, Yidong Liao¹, and B.V. Shankara Narayana Rao¹  
+#### Affiliations:
+1. Department of Mathematics and Statistics, Texas A&M University - Corpus Christi  
+3. Department of Engineering, Texas A&M University - Corpus Christi
+2. Department of Life Sciences, Texas A&M University - Corpus Christi
+
+Published version of the manuscript associated with this repository. The paper presents a mathematical model describing tumor progression and pharmacological intervention in neuroblastoma.
 
 **File:**  
 `tumor-progression-pharmacological-intervention-neuroblastoma-25.pdf`
