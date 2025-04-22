@@ -71,20 +71,20 @@ Brian’s instructions for library and module installation.
 ## Running Simulations
 To run simulations and reproduce the results presented in this study:
 
-### 1. Navigate to the cloned GitHub repository
-Using Jupyter Notebook, call the scripts as follows:
+### 1. Navigate to the Cloned GitHub Repository in Jupyter Notebook
+
+Using Jupyter Notebook, load the scripts into your environment in the following order:
 
 ```
-1. Step Goobly glob ..
+1. Script 1
 
-2. Step boolly bob ..
+2. Script 2
 
-3. Navigate to the desired directory in the Jupyter interface.
+3. Script 3
 
-4. Step ooobly blob ..
-
-5. Save outputs manually to a `Desired/` directory.
+4. Script 4
 ```
 
-Simulations generated were ..
+Once loaded, run the simulations. If desired, export the outputs manually to a `Desired/` directory.
 
+Simulations generated include graphical outputs representing tumor and immune cell population dynamics over time under various treatment conditions.
