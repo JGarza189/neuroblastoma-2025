@@ -1,4 +1,5 @@
 # User Guide
+This guide outlines how to set up the simulation environment and run the neuroblastoma tumor-immune model. It includes instructions for cloning the repository, installing dependencies, and executing simulations using either Jupyter Notebook or the command line.
 
 ## Computer Set-up
 
