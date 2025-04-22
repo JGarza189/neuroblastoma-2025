@@ -54,7 +54,7 @@ This project relies on the following Python libraries:
 
 ### 1. Clone the Repository
 
-Clone this repository into your desired directory using the following command:
+Either clone the repository directly from GitHub using the web interface, or use the following BASH command to clone it into your desired local directory:
 
 ```bash
 git clone https://github.com/JGarza189/neuroblastoma-25.git
@@ -85,6 +85,6 @@ Using Jupyter Notebook, load the scripts into your environment in the following 
 4. Script 4
 ```
 
-Once loaded, run the simulations. If desired, export the outputs manually to a `Desired/` directory.
+Once loaded, run the python script in order. If desired, export the outputs manually to a `Desired/` directory.
 
 Simulations generated include graphical outputs representing tumor and immune cell population dynamics over time under various treatment conditions.
