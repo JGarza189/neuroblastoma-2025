@@ -2,8 +2,7 @@
 
 To run simulations and reproduce the results presented in this study, you can use the **Jupyter Notebook interface**, a graphical user interface (GUI) that allows for interactive control of simulation parameters and real-time visualization of outputs. Alternatively, simulations may be executed through the **command line interface (CLI)** for a more automated, script-based workflow.
 
-### Required Software
----
+## Required Software
 
 Before getting started, ensure the following tools and libraries are installed on your system:
 
@@ -56,6 +55,6 @@ Script 3
 Script 4
 ```
 
-Once loaded, run the python script in order. If desired, export the outputs manually to a `Desired/` directory.
+Once loaded, run the python scripts in order. If desired, export the outputs manually to a `Desired/` directory.
 
 Simulations generated include graphical outputs representing tumor and immune cell population dynamics over time under various treatment conditions.
