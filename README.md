@@ -30,17 +30,16 @@ This study integrated immunological and pharmacokinetic components to simulate t
 
 ## Computer Set-up
 
-To run simulations and reproduce the results presented in this study, you can use the **Jupyter Notebook interface**, a graphical user interface (GUI) that allows for interactive control of simulation parameters and real-time visualization of outputs.  
-Alternatively, simulations may be executed through the **command line interface (CLI)** for a more automated, script-based workflow.
+To run simulations and reproduce the results presented in this study, you can use the **Jupyter Notebook interface**, a graphical user interface (GUI) that allows for interactive control of simulation parameters and real-time visualization of outputs. Alternatively, simulations may be executed through the **command line interface (CLI)** for a more automated, script-based workflow.
 
 ### Required Software
 
-Before getting started, make sure the following tools and libraries are installed on your system:
+Before getting started, ensure the following tools and libraries are installed on your system:
 
 #### Software
 
 - **Python 3.9 or higher**  
-- **Jupyter Notebook** (or JupyterLab)  
+- **Jupyter Notebook**  
 - **Git** – for cloning the repository and using the command line
 
 #### Python Libraries
@@ -50,8 +49,6 @@ This project relies on the following Python libraries:
 - `numpy` – numerical operations and arrays  
 - `scipy` – solving ordinary differential equations  
 - `pandas` – data manipulation and organization  
-
----
 
 ## Directory & Dependency Set-up
 
