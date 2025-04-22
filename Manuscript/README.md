@@ -1,4 +1,4 @@
-## Tumor Progression and Pharmacological Intervention: Modeling Immunotherapeutic and Chemotherapy Strategies in Neuroblastoma
+# Tumor Progression and Pharmacological Intervention: Modeling Immunotherapeutic and Chemotherapy Strategies in Neuroblastoma
 
 #### Project Contributors:  
 Kate Brockman², Brian Colburn¹, Joseph Garza³, Tony Liao¹, BV Shankara Narayana Rao¹

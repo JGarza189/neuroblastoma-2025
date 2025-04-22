@@ -1,4 +1,4 @@
-## Output
+# Output
 
 This directory contains simulation results generated from the developed pharmacology model.
 
