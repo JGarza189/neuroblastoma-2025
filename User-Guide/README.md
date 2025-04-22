@@ -1,6 +1,3 @@
-# User Guide
-This guide outlines how to set up the simulation environment and run the neuroblastoma tumor-immune model. It includes instructions for cloning the repository, installing dependencies, and executing simulations using either Jupyter Notebook or the command line.
-
 ## Computer Set-up
 
 To run simulations and reproduce the results presented in this study, you can use the **Jupyter Notebook interface**, a graphical user interface (GUI) that allows for interactive control of simulation parameters and real-time visualization of outputs. Alternatively, simulations may be executed through the **command line interface (CLI)** for a more automated, script-based workflow.
