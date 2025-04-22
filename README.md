@@ -49,8 +49,8 @@ Brian’s instructions for library and module installation.
 ## Running Simulations
 To run simulations and reproduce the results presented in this study:
 
-### 1. Navigate the cloned repository
-Using `conda`, open Jupyter Notebook and call the scripts as follows:
+### 1. Navigate to the cloned GitHub repository
+Using Jupyter Notebook, call the scripts as follows:
 
 ```
 1. Step Goobly glob ..
@@ -64,5 +64,5 @@ Using `conda`, open Jupyter Notebook and call the scripts as follows:
 5. Save outputs manually to a `Desired/` directory.
 ```
 
-Simulations generated ..
+Simulations generated were ..
 
