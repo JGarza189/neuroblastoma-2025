@@ -30,8 +30,42 @@ This study integrated immunological and pharmacokinetic components to simulate t
 
 ## Computer Set-up
 
-### 1. Clone the Repository
+To run simulations and reproduce the results presented in this study, the **Jupyter Notebook interface** can be used to interact with simulation parameters, view visualization outputs, and perform iterative testing with ease.  
+Alternatively, simulations can also be run via the **command line interface (CLI)** for a more automated or script-driven workflow.
 
+## Required Software & Libraries
+Before beginning, ensure the following software and environments are properly installed:
+
+### 1. Required Programs
+
+- **Python 3.9 or higher**  
+- **Jupyter Notebook or JupyterLab**  
+- **Git** (for cloning the repository)
+
+### 2. Python Libraries
+
+This project uses the following Python libraries:
+
+- `numpy` – math and array operations  
+- `scipy` – solving differential equations  
+- `matplotlib` – plotting results  
+- `pandas` – working with data  
+- `seaborn` – optional, for nicer plots  
+- `yaml` – reading settings from config files
+
+To install everything at once, run:
+
+```bash
+pip install -r requirements.txt
+
+conda install --file requirements.txt
+Copy
+Edit
+
+
+
+
+### 1. Clone the Repository
 Clone this repository into your directory of choice using the following shell command:
 
 ```bash
