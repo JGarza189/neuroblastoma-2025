@@ -7,6 +7,8 @@ To run simulations and reproduce the results presented in this study, you can us
 
 ### Required Software
 
+--
+
 Before getting started, ensure the following tools and libraries are installed on your system:
 
 #### Software
