@@ -46,8 +46,9 @@ Brian’s instructions for downloading dependencies.
 
 Brian’s instructions for library and module installation.
 
-### 4. Running Simulations
+## Running Simulations
 
+### 1. 
 Using `conda`, open Jupyter Notebook and call the scripts as follows:
 
 ```
