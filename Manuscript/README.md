@@ -11,5 +11,5 @@ Kate Brockman², Brian Colburn¹, Joseph Garza³, Tony Liao¹, BV Shankara Naray
 Published version of the manuscript associated with this repository. The paper presents a mathematical framework modeling tumor progression and pharmacological intervention in neuroblastoma.
 
 **File:**  
-`tumor-progression-pharmacological-intervention-neuroblastoma-25.pdf`
+`Neuroblastoma.Brockman.et.al-25.pdf`
 <br><br>
