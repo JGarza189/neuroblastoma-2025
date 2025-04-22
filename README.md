@@ -30,17 +30,17 @@ This study integrated immunological and pharmacokinetic components to simulate t
 
 ## Computer Set-up
 
-To run simulations and reproduce the results presented in this study, the **Jupyter Notebook interface** can be used to interact with simulation parameters, view visualization outputs, and perform iterative testing with ease.  
-Alternatively, simulations can also be run via the **command line interface (CLI)** for a more automated or script-driven workflow.
+To run simulations and reproduce the results presented in this study, you can use the **Jupyter Notebook interface**, a graphical user interface (GUI) that allows for interactive control of simulation parameters and real-time visualization of outputs.  
+Alternatively, simulations may be executed through the **command line interface (CLI)** for a more automated, script-based workflow.
 
-## Required Software & Libraries
-Before beginning, ensure the following software and environments are properly installed:
+## Required Software
+Before beginning, ensure the following software, libraries, modules, packages, and environments are properly installed:
 
-### 1. Required Programs
+### Required programs, libraries, modules, and packages
 
 - **Python 3.9 or higher**  
-- **Jupyter Notebook or JupyterLab**  
-- **Git** (for cloning the repository)
+- **Jupyter Notebook **  
+- **Git** (for cloning the repository and interfacing at the command line)
 
 ### 2. Python Libraries
 
@@ -48,22 +48,7 @@ This project uses the following Python libraries:
 
 - `numpy` – math and array operations  
 - `scipy` – solving differential equations  
-- `matplotlib` – plotting results  
 - `pandas` – working with data  
-- `seaborn` – optional, for nicer plots  
-- `yaml` – reading settings from config files
-
-To install everything at once, run:
-
-```bash
-pip install -r requirements.txt
-
-conda install --file requirements.txt
-Copy
-Edit
-
-
-
 
 ### 1. Clone the Repository
 Clone this repository into your directory of choice using the following shell command:
