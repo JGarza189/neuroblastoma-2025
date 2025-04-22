@@ -36,13 +36,11 @@ Alternatively, simulations may be executed through the **command line interface 
 ## Required Software
 Before beginning, ensure the following software, libraries, modules, packages, and environments are properly installed:
 
-### Required programs, libraries, modules, and packages
-
 - **Python 3.9 or higher**  
 - **Jupyter Notebook **  
 - **Git** (for cloning the repository and interfacing at the command line)
 
-### 2. Python Libraries
+### Python Libraries
 
 This project uses the following Python libraries:
 
