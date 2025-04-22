@@ -34,19 +34,22 @@ To run simulations and reproduce the results presented in this study, you can us
 Alternatively, simulations may be executed through the **command line interface (CLI)** for a more automated, script-based workflow.
 
 ## Required Software
-Before beginning, ensure the following software, libraries, modules, packages, and environments are properly installed:
+Before getting started, make sure the following tools and libraries are installed on your system:
+
+#### Software
 
 - **Python 3.9 or higher**  
-- **Jupyter Notebook **  
-- **Git** (for cloning the repository and interfacing at the command line)
+- **Jupyter Notebook** (or JupyterLab)  
+- **Git** – for cloning the repository and using the command line
 
-### Python Libraries
+#### Python Libraries
 
-This project uses the following Python libraries:
+This project relies on the following Python libraries:
 
-- `numpy` – math and array operations  
-- `scipy` – solving differential equations  
-- `pandas` – working with data  
+- `numpy` – numerical operations and arrays  
+- `scipy` – solving ordinary differential equations  
+- `pandas` – data manipulation and organization
+
 
 ### 1. Clone the Repository
 Clone this repository into your directory of choice using the following shell command:
