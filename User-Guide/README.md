@@ -44,16 +44,16 @@ To run simulations and reproduce the results presented in this study:
 
 ### 1. Navigate to the Cloned GitHub Repository in Jupyter Notebook
 
-Using Jupyter Notebook, load the scripts into your environment in the following order:
+Using Jupyter Notebook, load these scripts into your environment in the following order:
 
 ```
-1. Script 1
+Script 1
 
-2. Script 2
+Script 2
 
-3. Script 3
+Script 3
 
-4. Script 4
+Script 4
 ```
 
 Once loaded, run the python script in order. If desired, export the outputs manually to a `Desired/` directory.
