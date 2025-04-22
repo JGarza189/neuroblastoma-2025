@@ -5,6 +5,10 @@ To run simulations and reproduce the results presented in this study, you can us
 ### Required Software
 ---
 
+### Required Software
+<hr style="border: 0.5px solid #ccc; margin-top: 4px; margin-bottom: 16px;" />
+
+
 Before getting started, ensure the following tools and libraries are installed on your system:
 
 #### Software
