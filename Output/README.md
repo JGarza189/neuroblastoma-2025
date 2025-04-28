@@ -1,6 +1,6 @@
 ## Output
 
-This directory contains simulation results generated from the developed pharmacology model.
+#### This directory contains simulation results generated from the developed pharmacology model.
 
 **File:**  
 `simulation-results.pdf`
