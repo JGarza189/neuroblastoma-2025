@@ -3,6 +3,6 @@
 This directory contains simulation results generated from the developed pharmacology model.
 
 **File:**  
-`simulation.graphs-RAW.txt`
+`simulation-results.pdf`
 
-This file includes raw output plots from the numerical simulations discussed in the manuscript. The figures corresponds to different parameter sets and treatment scenarios explored in the study.
+This file includes raw plots generated from the numerical simulations in Python. The figures corresponds to different parameter sets and treatment scenarios explored in the study.
