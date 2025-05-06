@@ -6,7 +6,7 @@ To run simulations and reproduce the results presented in this study, use **Jupy
 
 ## Required Software
 
-Before getting started, ensure that Jupyter Notebook's interface is accessible on your system:
+Before getting started, ensure that Jupyter Notebook is accessible on your system:
 
 #### Software
 
@@ -17,11 +17,11 @@ Before getting started, ensure that Jupyter Notebook's interface is accessible o
 
 This project relies on the following Python libraries:
 
-- `scipy` – Solves ordinary differential equations  
+- **scipy** – Solves ordinary differential equations  
 
 ## Directory & Dependency Set-up
 
-### 1. Clone the Repository
+### 1. Cloning the Repository
 
 To clone the repository using a **graphical user interface**, navigate to the repository’s homepage on GitHub. Click the green **"Code"** dropdown button, then select **"Download ZIP"** to download the project as a compressed file. Once downloaded, extract the contents to your desired directory location on your comuter.
 
