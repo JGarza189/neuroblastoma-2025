@@ -6,10 +6,7 @@ Generates a FastQC report, a quality control tool for high-throughput sequence d
 
 #### Usage:
 
-To run , `model.toml`
-
-``
- <br><br>
+To run `model.toml`
 
 Something here about running it in Jupyter Notebook:
 
