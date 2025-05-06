@@ -2,7 +2,7 @@
 
 ### Computer Set-up
 
-To run simulations and reproduce the results presented in this study, use **Jupyter Notebook**, a web graphical user interface that allows for interactive control of simulation parameters and real-time visualization of outputs. Alternatively, simulations may be executed through the **command line interface** using a shell terminal. 
+To run simulations and reproduce the results presented in this study, use **Jupyter Notebook**, a graphical user interface that allows for interactive control of simulation parameters and real-time visualization of outputs. Alternatively, simulations may be executed through the **command line** using a shell terminal. 
 
 ## Required Software
 
