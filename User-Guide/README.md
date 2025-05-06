@@ -17,7 +17,7 @@ Before getting started, ensure that Jupyter Notebook's interface is accessible o
 
 This project relies on the following Python libraries:
 
-- `scipy` – solving ordinary differential equations  
+- `scipy` – Solves ordinary differential equations  
 
 ## Directory & Dependency Set-up
 
@@ -44,25 +44,25 @@ To run simulations and reproduce the results presented in this study:
 
 ### 1. Open Jupyter Notebook
 
-Using Jupyter Notebook, load all of the scripts and files into your ?? :
+While in Jupyter Notebook, load all of the scripts and files into your ?? :
 
 ```
-model.toml
+1. model.toml
 
-model.txt
+2. model.txt
 
-modeling_utils.py
+3. modeling_utils.py
 
-run_model.py
+4. run_model.py
 
-parameters-mk04-nondimensional.txt
+5. parameters-mk04-nondimensional.txt
 
-parameters-mk04.txt
+6. parameters-mk04.txt
 
-stability_analysis.ipynb
+7. stability_analysis.ipynb
 
 ```
 
-Once loaded, run the python scripts in order. If desired, export the outputs manually to a `Desired/` directory.
+Once loaded, run the python scripts in order listed above. If desired, export the outputs manually to a desired directory.
 
 Simulations generated include graphical outputs representing tumor and immune cell population dynamics over time under various treatment conditions.
