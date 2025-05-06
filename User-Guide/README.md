@@ -64,10 +64,10 @@ While in Jupyter Notebook, load all of the scripts and files into your working d
 
 ### 2. Running Scripts
 
-Once loaded, run the provided scripts in the exact order listed above. If desired, 
+Once loaded, run the provided scripts in the exact order listed above by ..
 
-### 2. Saving Output
+### 3. Saving Output
 
-Once the simulations are completed, save the output to your desired directory on your computer.
+Once all of the simulations are completed, save the output to your desired directory on your computer.
 
 Simulations generated include graphical outputs representing tumor and immune cell population dynamics over time under various treatment conditions.
