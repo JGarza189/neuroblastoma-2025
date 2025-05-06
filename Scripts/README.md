@@ -6,10 +6,12 @@ Generates a FastQC report, a quality control tool for high-throughput sequence d
 
 #### Usage:
 
-To run the script, use the following command:
+To run the script, 
 
 `./script-1.py <fasta_file1> <fasta_file2> ... <fasta_fileN>`
  <br><br>
+
+Something here about running it in Jupyter Notebook:
 
 ### script-2.R
 
@@ -17,8 +19,9 @@ Reads a csv. file containing BLAST output (description table), extracts and anal
 
 #### Usage:
 
-To run this script with a .csv file, use the following command:
+To run this script,
 
 `./script-2.R <csv_file>`
  <br><br>
 
+Something here about running it in Jupyter Notebook:
