@@ -44,7 +44,7 @@ To run simulations and reproduce the results presented in this study:
 
 ### 1. Open Jupyter Notebook
 
-While in Jupyter Notebook, load all of the scripts and files into your working directory :
+While in Jupyter Notebook, load all of the scripts and files into your working directory:
 
 ```
 1. model.toml
@@ -60,7 +60,6 @@ While in Jupyter Notebook, load all of the scripts and files into your working d
 6. parameters-mk04.txt
 
 7. stability_analysis.ipynb
-
 ```
 
 Once loaded, run the python scripts in order listed above. If desired, export the outputs manually to a desired directory.
