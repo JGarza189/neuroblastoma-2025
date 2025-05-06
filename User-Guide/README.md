@@ -31,7 +31,7 @@ To clone the repository using the **command-line interface (shell)**, run the fo
 git clone https://github.com/JGarza189/neuroblastoma-25.git
 ```
 
-### 2. Download Dependencies
+### 2. Dependency Installation
 
 Brian’s instructions for downloading dependencies.
 
