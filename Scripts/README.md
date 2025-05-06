@@ -18,9 +18,6 @@ Reads a csv. file containing BLAST output (description table), extracts and anal
 
 To utilize `model.txt`,
 
-`./script-2.R <csv_file>`
- <br><br>
-
 Something here about running it in Jupyter Notebook:
 
 ### modeling_utils.py
@@ -30,9 +27,6 @@ Reads a csv. file containing BLAST output (description table), extracts and anal
 #### Usage:
 
 To run `modeling_utils.py`,
-
-`./script-2.R <csv_file>`
- <br><br>
 
 Something here about running it in Jupyter Notebook:
 
@@ -44,9 +38,6 @@ Reads a csv. file containing BLAST output (description table), extracts and anal
 
 To run `run_model.py`,
 
-`./script-2.R <csv_file>`
- <br><br>
-
 Something here about running it in Jupyter Notebook:
 
 ### parameters-mk04-nondimensional.txt
@@ -56,9 +47,6 @@ Reads a csv. file containing BLAST output (description table), extracts and anal
 #### Usage:
 
 To run `parameters-mk04-nondimensional.txt`,
-
-`./script-2.R <csv_file>`
- <br><br>
 
 Something here about running it in Jupyter Notebook:
 
@@ -70,9 +58,6 @@ Reads a csv. file containing BLAST output (description table), extracts and anal
 
 To run `parameters-mk04.txt`,
 
-`./script-2.R <csv_file>`
- <br><br>
-
 Something here about running it in Jupyter Notebook:
 
 ### stability_analysis.ipynb
@@ -82,8 +67,5 @@ Reads a csv. file containing BLAST output (description table), extracts and anal
 #### Usage:
 
 To run `stability_analysis.ipynb`,
-
-`./script-2.R <csv_file>`
- <br><br>
 
 Something here about running it in Jupyter Notebook:
