@@ -1,4 +1,5 @@
 ## Scripts
+This directory contains the core Python scripts used to implement and execute the tumor-immune simulation models described in the study. Each script contributes to model definition, parameter configuration, execution logic, or visualization of results.
 
 ### model.toml
 
