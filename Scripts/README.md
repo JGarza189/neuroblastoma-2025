@@ -6,9 +6,9 @@ Generates a FastQC report, a quality control tool for high-throughput sequence d
 
 #### Usage:
 
-To run the script, 
+To run , `model.toml`
 
-`./script-1.py <fasta_file1> <fasta_file2> ... <fasta_fileN>`
+``
  <br><br>
 
 Something here about running it in Jupyter Notebook:
