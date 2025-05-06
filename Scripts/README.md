@@ -12,7 +12,7 @@ Something here about running it in Jupyter Notebook:
 
 ### model.txt
 
-Reads a csv. file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
+Reads a csv file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
 
 #### Usage:
 
@@ -22,7 +22,7 @@ Something here about running it in Jupyter Notebook:
 
 ### modeling_utils.py
 
-Reads a csv. file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
+Reads a csv file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
 
 #### Usage:
 
@@ -32,7 +32,7 @@ Something here about running it in Jupyter Notebook:
 
 ### run_model.py
 
-Reads a csv. file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
+Reads a csv file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
 
 #### Usage:
 
@@ -42,7 +42,7 @@ Something here about running it in Jupyter Notebook:
 
 ### parameters-mk04-nondimensional.txt
 
-Reads a csv. file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
+Reads a csv file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
 
 #### Usage:
 
@@ -52,7 +52,7 @@ Something here about running it in Jupyter Notebook:
 
 ### parameters-mk04.txt
 
-Reads a csv. file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
+Reads a csv file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
 
 #### Usage:
 
@@ -62,7 +62,7 @@ Something here about running it in Jupyter Notebook:
 
 ### stability_analysis.ipynb
 
-Reads a csv. file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
+Reads a csv file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
 
 #### Usage:
 
