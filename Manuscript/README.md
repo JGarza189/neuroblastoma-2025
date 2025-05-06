@@ -1,6 +1,6 @@
 ## Manuscript
 This directory contains the finalized version of the research manuscript. It includes a single PDF file representing the complete, formatted document
 
-**File:**  
+**Tumor Progression and Pharmacological Intervention: Modeling Immunotherapeutic and Chemotherapy Strategies In Neuroblastoma**  
 `Neuroblastoma.Brockman.et.al-25.pdf`
 <br><br>
