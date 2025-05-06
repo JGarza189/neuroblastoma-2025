@@ -1,0 +1,13 @@
+[basic]
+    N = "a_1*N(t)*(1-b*N(t)) - a_2*N(t) - alpha_1*N(t)*T(t) + k_i*I_2(t)"
+    L = "r_1*N(t)*T(t) - mu*L(t) - beta_1*L(t)*T(t)"
+    T = "c*T(t)*(1-d*T(t)) - alpha_2*N(t)*T(t) - beta_2*L(t)*T(t) - k_c*C(t)"
+    #I_2 = "-2**(-t/h_i)*I_2(0)*log(2)/h"
+    #C = "-2**(-t/h_c)*C(0)*log(2)/h"
+
+[nondimensionalized]
+    N = "p_1*N(t)*(1-q*N(t)) - p_2*N(t) - N(t)*T(t) + kappa_i*I_2(t)"
+    L = "N(t)*T(t) - L(t) - s*L(t)*T(t)"
+    T = "u*T(t)*(1-v*T(t)) - N(t)*T(t) - delta*L(t)*T(t) - kappa_c*C(t)"
+    #D_n = "-2**(-t/h)*D_n(0)*log(2)/h"
+    #D_t = "-2**(-t/h)*D_t(0)*log(2)/h"

@@ -1,0 +1,182 @@
+#[initial_values."unknown risk"]
+#N = 1e4
+#L = 1e2
+#T = 1e6
+#I_2 = 0
+#C = 0
+
+#[initial_values."no risk"]
+#N = 1e4
+#L = 1e2
+#T = 0
+#I_2 = 0
+#C = 0
+
+[initial_values."some risk"]
+N = 1e5
+L = 2e1
+T = 8e5
+I_2 = 0
+C = 0
+
+[initial_values."more risk"]
+N = 1e5
+L = 2e1
+T = 1e7
+I_2 = 0
+C = 0
+
+[initial_values."even more risk"]
+N = 1e4
+L = 2e1
+T = 1e7
+I_2 = 0
+C = 0
+
+[dosages.C.none]
+initial = 0 #mg/kg, single dose
+recurring = 0 #mg/kg, every 24 hours
+
+#[dosages.C.low]
+#initial = 2.5 #mg/kg, single dose
+#recurring = 2 #mg/kg, every 24 hours
+
+#[dosages.C.high]
+#initial = 30 #mg/kg, single dose
+#recurring = 25 #mg/kg, every 24 hours
+
+[dosages.I_2.none]
+recurring = 0 #IU, every 24 hours
+
+#[dosages.I_2.low]
+#recurring = 3e6 #IU, every 24 hours
+
+#[dosages.I_2.high]
+#recurring = 6e6 #IU, every 24 hours
+
+[parameters.k_i]
+Units = "$day^{-1}$"
+Description = "Rate constant of IL-2-mediated stimulation"
+Value = 6.68e-2
+Source = "     "
+
+[parameters.k_c]
+Units = "$day^{-1}$"
+Description = "Rate constant of Cyclophosphamide-mediated tumor death"
+Value = 3.5e2
+Source = "     "
+
+[parameters.a_1]
+Units = "$day^{-1}$"
+Description = "Growth rate of NK cells"
+Value = 0.111
+Source = "     "
+
+[parameters.a_2]
+Units = "$day^{-1}$"
+Description = "Natural death rate of NK cells"
+Value = 4.12e-2
+Source = "https://www.sciencedirect.com/science/article/pii/S0022519318300067?casa_token=ZWsX7FYHeOkAAAAA:jkJ40nHbzcsuRLi_8ezSf1KXfKV0Vvm3Xcy8lEP1cqNdwrMCe60yGf_Y07OtsjPMMz64PjKO27T10"
+
+[parameters.b]
+Units = "$cell^{-1}$"
+Description = "Inverse of NK cells carrying capacity"
+Value = 1.02e-09
+Source = "de Pillis et al., 2008"
+
+[parameters.c]
+Units = "$day^{-1}$"
+Description = "Growth rate of tumor cells"
+Value = 0.514
+Source = "de Pillis et al., 2008"
+
+[parameters.d]
+Units = "$cell^{-1}$"
+Description = "Inverse of tumor carrying capacity"
+Value = 1.02e-9
+Source = "de Pillis et al., 2008"
+
+[parameters.r_1]
+Units = "$cell^{-1} day^{-1}$"
+Description = "Rate of NK-lysed tumor cell debris activation of CTLs"
+Value = 1.1e-7
+Source = "de Pillis et al., 2008"
+
+[parameters.mu]
+Units = "$day^{-1}$"
+Description = "Death rate of CTL cells"
+Value = 2.0e-2
+Source = "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q=A+mathematical+model+of+cell-mediated+immune+response+to+tumor&btnG="
+# lifespan of 30-160 days: https://pmc.ncbi.nlm.nih.gov/articles/PMC5371741/
+
+[parameters.alpha_1]
+Units = "$cell^{-1} day^{-1}$"
+Description = "Rate of tumor-induced NK cell death"
+Value = 1.0e-7
+Source = "de Pillis et al., 2008"
+
+[parameters.alpha_2]
+Units = "$cell^{-1} day^{-1}$"
+Description = "Rate of NK-induced tumor cell death"
+Value = 3.23e-7
+Source = "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q=A+mathematical+model+of+cell-mediated+immune+response+to+tumor&btnG="
+
+[parameters.beta_1]
+Units = "$cell^{-1} day^{-1}$"
+Description = "Rate of tumor-induced CTL cell death"
+Value = 3.422e-10
+Source = "de Pillis et al., 2008"
+
+[parameters.beta_2]
+Units = "$cell^{-1} day^{-1}$"
+Description = "Rate of CTL-induced tumor cell deaths"
+Value = 0
+Source = "de Pillis et al., 2008"
+
+[substitutions]
+p_1 = "a_1/mu"
+p_2 = "a_2/mu"
+q = "b*mu/alpha_2"
+delta = "beta_2*r_1/(alpha_1*alpha_2)"
+#kappa_i = "k_i*alpha_2/mu**2"
+#kappa_c = "k_c*alpha_1/mu**2"
+#r = "alpha_1*alpha_2*T(0)/(mu*r_1)"
+s = "beta_1/alpha_1"
+u = "c/mu"
+v = "d*mu/alpha_1"
+#D_0^* = "D_0*r_2/(mu*T(0))"
+
+#s = 3.42e-3
+#u = 25.7
+#v = 2.04e-4
+#p_2 = 0
+kappa_i = 0
+#kappa_i = 1e-32
+kappa_c = 0
+
+#### CASE 1
+#p_1 = 7.3e3
+#q = 0.51
+#delta = 7e-5
+
+#### CASE 3
+#p_1 = 5e3
+#q = 6.2
+#delta = 1.08
+
+#### CASE 4
+#p_1 = 4.9e3
+#q = 3e-2
+#delta = 3e-2
+
+#### CASE 5
+#p_1 = 5e3
+#q = 3e-2
+#delta = 4e-2
+
+#### Trying to break
+#p_1 = 5e3
+#q = 100
+#delta = 100
+
+
