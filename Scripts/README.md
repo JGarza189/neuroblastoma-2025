@@ -1,9 +1,9 @@
 ## Scripts
-This directory contains the core Python scripts used to implement and execute the tumor-immune simulation models described in the study. Each script contributes to model definition, parameter configuration, execution logic, or visualization of results.
+This directory contains the core Python scripts used to implement and execute the tumor-immune simulation models described in the study. Each script contributes to model definition, parameter configuration, execution logic, and visualization of results.
 
 ### model.toml
 
-Generates a FastQC report, a quality control tool for high-throughput sequence data on one or more FASTQ files. This script simplifies the process of running FastQC, producing detailed HTML reports and raw data summaries to assess the quality of sequencing reads.
+Described the function of either the script or txt file.
 
 #### Usage:
 
@@ -13,7 +13,7 @@ Something here about running it in Jupyter Notebook:
 
 ### model.txt
 
-Reads a csv file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
+Described the function of either the script or txt file.
 
 #### Usage:
 
@@ -23,7 +23,7 @@ Something here about running it in Jupyter Notebook:
 
 ### modeling_utils.py
 
-Reads a csv file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
+Described the function of either the script or txt file.
 
 #### Usage:
 
@@ -33,7 +33,7 @@ Something here about running it in Jupyter Notebook:
 
 ### run_model.py
 
-Reads a csv file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
+Described the function of either the script or txt file.
 
 #### Usage:
 
@@ -43,7 +43,7 @@ Something here about running it in Jupyter Notebook:
 
 ### parameters-mk04-nondimensional.txt
 
-Reads a csv file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
+Described the function of either the script or txt file.
 
 #### Usage:
 
@@ -53,7 +53,7 @@ Something here about running it in Jupyter Notebook:
 
 ### parameters-mk04.txt
 
-Reads a csv file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
+Described the function of either the script or txt file.
 
 #### Usage:
 
@@ -63,7 +63,7 @@ Something here about running it in Jupyter Notebook:
 
 ### stability_analysis.ipynb
 
-Reads a csv file containing BLAST output (description table), extracts and analyzes the top 10 most frequent genera, and generates dot and bar plots saved in a new plot directory. 
+Described the function of either the script or txt file.
 
 #### Usage:
 
