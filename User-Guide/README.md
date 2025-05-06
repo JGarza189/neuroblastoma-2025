@@ -42,18 +42,25 @@ Brian’s instructions for library and module installation.
 ## Running Simulations
 To run simulations and reproduce the results presented in this study:
 
-### 1. Navigate to the Cloned GitHub Repository in Jupyter Notebook
+### 1. Open Jupyter Notebook
 
-Using Jupyter Notebook, load these scripts into your environment in the following order:
+Using Jupyter Notebook, load all of the scripts and files into your ?? :
 
 ```
-Script 1
+model.toml
 
-Script 2
+model.txt
 
-Script 3
+modeling_utils.py
 
-Script 4
+run_model.py
+
+parameters-mk04-nondimensional.txt
+
+parameters-mk04.txt
+
+stability_analysis.ipynb
+
 ```
 
 Once loaded, run the python scripts in order. If desired, export the outputs manually to a `Desired/` directory.
