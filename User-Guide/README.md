@@ -6,27 +6,26 @@ To run simulations and reproduce the results presented in this study, use **Jupy
 
 ## Required Software
 
-Before getting started, ensure that a Jupyter Notebook interface is acccesible on your system:
+Before getting started, ensure that Jupyter Notebook's interface is accessible on your system:
 
 #### Software
 
-- **Python 3.9 or higher**  
 - **Jupyter Notebook**  
-- **Git** – for cloning the repository and using the command line
+- **Git** – for cloning the repository at the command line
 
 #### Python Libraries
 
 This project relies on the following Python libraries:
 
-- `numpy` – numerical operations and arrays  
 - `scipy` – solving ordinary differential equations  
-- `pandas` – data manipulation and organization  
 
 ## Directory & Dependency Set-up
 
 ### 1. Clone the Repository
 
-Either clone the repository directly from GitHub using the web interface, or use the following BASH command to clone it into your desired local directory:
+To clone the repository using a **graphical interface**, navigate to the repository’s homepage on GitHub. Click the green **"Code"** dropdown button, then select **"Download ZIP"** to download the project as a compressed file. Once downloaded, extract the contents to your desired directory location.
+
+To clone the repository using the **command-line interface (shell)**, run the following command in your terminal from your target directory:
 
 ```bash
 git clone https://github.com/JGarza189/neuroblastoma-25.git
