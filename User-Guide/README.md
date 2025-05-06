@@ -62,6 +62,12 @@ While in Jupyter Notebook, load all of the scripts and files into your working d
 7. stability_analysis.ipynb
 ```
 
-Once loaded, run the python scripts in order listed above. If desired, export the outputs manually to a desired directory.
+### 2. Running Scripts
+
+Once loaded, run the provided scripts in the exact order listed above. If desired, 
+
+### 2. Saving Output
+
+Once the simulations are completed, save the output to your desired directory on your computer.
 
 Simulations generated include graphical outputs representing tumor and immune cell population dynamics over time under various treatment conditions.
