@@ -6,7 +6,7 @@ Generates a FastQC report, a quality control tool for high-throughput sequence d
 
 #### Usage:
 
-To run `model.toml`
+To run `model.toml`,
 
 Something here about running it in Jupyter Notebook:
 
@@ -16,7 +16,7 @@ Reads a csv. file containing BLAST output (description table), extracts and anal
 
 #### Usage:
 
-To run this script,
+To utilize `model.txt`,
 
 `./script-2.R <csv_file>`
  <br><br>
@@ -29,7 +29,7 @@ Reads a csv. file containing BLAST output (description table), extracts and anal
 
 #### Usage:
 
-To run this script,
+To run `modeling_utils.py`,
 
 `./script-2.R <csv_file>`
  <br><br>
@@ -42,7 +42,7 @@ Reads a csv. file containing BLAST output (description table), extracts and anal
 
 #### Usage:
 
-To run this script,
+To run `run_model.py`,
 
 `./script-2.R <csv_file>`
  <br><br>
@@ -55,7 +55,7 @@ Reads a csv. file containing BLAST output (description table), extracts and anal
 
 #### Usage:
 
-To run this script,
+To run `parameters-mk04-nondimensional.txt`,
 
 `./script-2.R <csv_file>`
  <br><br>
@@ -68,7 +68,7 @@ Reads a csv. file containing BLAST output (description table), extracts and anal
 
 #### Usage:
 
-To run this script,
+To run `parameters-mk04.txt`,
 
 `./script-2.R <csv_file>`
  <br><br>
@@ -81,7 +81,7 @@ Reads a csv. file containing BLAST output (description table), extracts and anal
 
 #### Usage:
 
-To run this script,
+To run `stability_analysis.ipynb`,
 
 `./script-2.R <csv_file>`
  <br><br>
