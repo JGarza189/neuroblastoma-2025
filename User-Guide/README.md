@@ -54,7 +54,7 @@ While in Jupyter Notebook, load all of the scripts and files into your working d
 7. stability_analysis.ipynb
 ```
 
-### 2. Executing Scripts
+### 2. Running the Scripts
 
 Once loaded, run the provided scripts.
 
