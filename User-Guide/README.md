@@ -19,11 +19,11 @@ This project relies on the following Python libraries:
 
 - **scipy** – Solves ordinary differential equations  
 
-## Directory Set-up
+## File Set-up
 
-### 1. Cloning the Repository
+### 1. Cloning & Downloading the Repository
 
-To clone the repository using a **graphical user interface**, navigate to the repository’s homepage on GitHub. Click the green **"Code"** dropdown button, then select **"Download ZIP"** to download the project as a compressed file. Once downloaded, extract the contents to your desired directory location on your computing system.
+To download the repository using a **graphical user interface**, navigate to the repository’s homepage on GitHub. Click the green **"Code"** dropdown button, then select **"Download ZIP"** to download the project as a compressed file. Once downloaded, extract the contents to your desired directory location on your computing system.
 
 To clone the repository using the **command-line interface (shell)**, run the following command in your terminal from your target directory:
 
