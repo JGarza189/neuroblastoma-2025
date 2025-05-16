@@ -23,21 +23,13 @@ This project relies on the following Python libraries:
 
 ### 1. Cloning the Repository
 
-To clone the repository using a **graphical user interface**, navigate to the repository’s homepage on GitHub. Click the green **"Code"** dropdown button, then select **"Download ZIP"** to download the project as a compressed file. Once downloaded, extract the contents to your desired directory location on your comuter.
+To clone the repository using a **graphical user interface**, navigate to the repository’s homepage on GitHub. Click the green **"Code"** dropdown button, then select **"Download ZIP"** to download the project as a compressed file. Once downloaded, extract the contents to your desired directory location on your computing system.
 
 To clone the repository using the **command-line interface (shell)**, run the following command in your terminal from your target directory:
 
 ```bash
 git clone https://github.com/JGarza189/neuroblastoma-25.git
 ```
-
-### 2. Dependency Installation
-
-Brian’s instructions for downloading dependencies.
-
-### 3. Library and Module Installation
-
-Brian’s instructions for library and module installation.
 
 ## Running Simulations
 To run simulations and reproduce the results presented in this study:
@@ -62,9 +54,9 @@ While in Jupyter Notebook, load all of the scripts and files into your working d
 7. stability_analysis.ipynb
 ```
 
-### 2. Running Scripts
+### 2. Executing Scripts
 
-Once loaded, run the provided scripts in the exact order listed above by ..
+Once loaded, run the provided scripts.
 
 ### 3. Saving Output
 
