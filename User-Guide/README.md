@@ -19,7 +19,7 @@ This project relies on the following Python libraries:
 
 - **scipy** – Solves ordinary differential equations  
 
-## Directory & Dependency Set-up
+## Directory Set-up
 
 ### 1. Cloning the Repository
 
