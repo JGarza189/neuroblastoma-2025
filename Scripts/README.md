@@ -1,58 +1,29 @@
 ## Scripts
-This directory contains the core Python scripts used to implement and execute the tumor-immune simulation models described in the study. Each script contributes to model definition, parameter configuration, execution logic, and visualization of results.
 
-### model.toml
+This directory contains the core scripts used to define, execute, and analyze the tumor-immune simulation models described in the study. Each file contributes to model construction, parameter configuration, simulation logic, or result visualization.
 
-#### Usage:
+All scripts are intended to be used within a Jupyter Notebook environment.
 
-To run `model.toml`,
+---
 
-Run in Jupyter Notebook
+### model.toml  
+Configuration file for model setup.
 
-### model.txt
+### model.txt  
+Alternate model configuration file.
 
-#### Usage:
+### modeling_utils.py  
+Utility functions supporting model execution and analysis.
 
-To utilize `model.txt`,
+### run_model.py  
+Main script to initialize and run the tumor-immune model.
 
-Run in Jupyter Notebook
+### parameters-mk04.txt  
+Parameter set for the original model formulation.
 
-### modeling_utils.py
+### parameters-mk04-nondimensional.txt  
+Parameter set for the nondimensionalized version of the model.
 
-#### Usage:
+### stability_analysis.ipynb  
+Notebook for performing equilibrium and stability analysis.
 
-To run `modeling_utils.py`,
-
-Run in Jupyter Notebook
-
-### run_model.py
-
-#### Usage:
-
-To run `run_model.py`,
-
-Run in Jupyter Notebook
-
-### parameters-mk04-nondimensional.txt
-
-#### Usage:
-
-To run `parameters-mk04-nondimensional.txt`,
-
-Run in Jupyter Notebook
-
-### parameters-mk04.txt
-
-#### Usage:
-
-To run `parameters-mk04.txt`,
-
-Run in Jupyter Notebook
-
-### stability_analysis.ipynb
-
-#### Usage:
-
-To run `stability_analysis.ipynb`,
-
-Run in Jupyter Notebook
