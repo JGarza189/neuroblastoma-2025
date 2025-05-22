@@ -4,8 +4,6 @@ This directory contains the core scripts used to define, execute, and analyze th
 
 All scripts are intended to be used within a Jupyter Notebook environment.
 
----
-
 ### model.toml  
 Configuration file for model setup.
 
